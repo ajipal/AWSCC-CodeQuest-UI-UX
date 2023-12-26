@@ -46,7 +46,7 @@ _(just choose the questions you would like to answer and make it concise)_
     <br>
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
-<img align="right" width="250px" src="398432236_3542224989327249_4523624184032708048_n">
+![It's Centred That](398432236_3542224989327249_4523624184032708048_n.png)
 
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
