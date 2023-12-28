@@ -12,3 +12,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 Ready to include your output for **Day 4**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
+
+<a href="https://www.figma.com/file/xrB9W6NfAhos8j8FdIvvaQ/Week-1-(day-4)-%3A-Design-Components-(Community)?type=design&node-id=0%3A1&mode=design&t=oK2ENCk9lPZ3INNa-1"> Day 4: Design Components </a>
+
+![Activity of Day04](day4.png)
