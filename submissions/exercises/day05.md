@@ -16,5 +16,5 @@ Ready to include your output for **Day 5**? Let the customization begin! 🚀✨
 <a href="https://www.figma.com/file/PcsIvcl55Yc9ZMAThH49x3/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=5%3A33&mode=design&t=b7RPDIX6BbZXQYdd-1"> Day 5: Advanced Figma </a>
 
 ![The Bezier Game](day5_1.png)
-![Kern Type](day5__2.png)
-![Boolean Game](day5__3.png)
+![Kern Type](day5_2.png)
+![Boolean Game](day5_3.png)
