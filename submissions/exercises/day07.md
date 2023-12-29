@@ -12,3 +12,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 Ready to include your output for **Day 7**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
+
+<a href="https://www.figma.com/file/8LtFMOZ5uXpDwjebkBTVuU/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0-1&mode=design"> Day 7: Prototyping </a>
+
+![Day 7: Prototyping](day7.png)
