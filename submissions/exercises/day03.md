@@ -13,3 +13,5 @@ Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
 <a href="https://www.figma.com/file/mIT55lRSFQFMrZFJ5l7muv/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=kJRPoqlg6YRldSMN-1"> Day 3: Activity </a>
 
 ![Can't Unsee](day3.png)
+
+
